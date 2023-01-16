@@ -3,7 +3,7 @@ Unet in pytorch , aimed to classify only one kind
 
 
 # Environment
-pytorch >= 1.4 \
+pytorch >= 1.4 
 
 python >= 3.7
 

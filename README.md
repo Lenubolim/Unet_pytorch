@@ -15,5 +15,5 @@ python UnetTrain.py
 python UnetTest.py
 
 
-# provement
+# Improvement
 Anything that you can make by improving it!
